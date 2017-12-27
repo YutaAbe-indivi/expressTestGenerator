@@ -1,2 +1,2 @@
 # expressTestGenerator
-test
+テストです
