@@ -9,3 +9,7 @@
 [2017-12-27T14:20:25.324] [INFO] sql - parsonAll query : select * from person
 [2017-12-27T14:27:05.689] [INFO] sql - parsonUpdate query : update person SET name ="SUPER_STAR_MITURU" where id =13
 [2017-12-27T14:27:08.053] [INFO] sql - parsonAll query : select * from person
+[2017-12-27T16:27:54.559] [INFO] sql - parsonShow query : select * from person where id = 1
+[2017-12-27T16:27:57.827] [INFO] sql - parsonShow query : select * from person where id = 2
+[2017-12-27T16:27:59.870] [INFO] sql - parsonAll query : select * from person
+[2017-12-27T16:28:05.702] [INFO] sql - parsonShow query : select * from person where id = 11
