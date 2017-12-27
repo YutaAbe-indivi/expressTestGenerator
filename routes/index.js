@@ -1,5 +1,5 @@
 var express = require('express')
-var person = require('express')
+var person = require('./person')
 var router = express.Router()
 
 router.get('/person/:id([0-9]+)', person)

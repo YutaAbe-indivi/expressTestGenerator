@@ -46,4 +46,5 @@ router.delete('/person/:id([0-9]+)', (req, res) => {
         res.send('id:' + req.params.id + ' deleted.')
     })
 })
+
 module.exports = router
