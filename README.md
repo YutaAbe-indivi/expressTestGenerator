@@ -1,1 +1,2 @@
 # expressTestGenerator
+このAPIを動かす場合には、ローカル上でmysqlを立てている必要あり
