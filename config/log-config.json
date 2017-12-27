@@ -1,0 +1,17 @@
+{
+	"appenders": { 
+		"sql": { 
+			"type": "file", 
+			"filename": "logs/sql.log" 
+		},
+		"consoleOut": {
+			"type": "stdout"
+		}
+	},
+	"categories": { 
+		"default": { 
+			"appenders": ["sql", "consoleOut"], 
+			"level": "info" 
+		} 
+	}
+}

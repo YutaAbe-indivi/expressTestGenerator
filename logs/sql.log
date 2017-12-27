@@ -1,0 +1,11 @@
+[2017-12-27T14:07:16.780] [INFO] sql - parsonAll query : select * from person
+[2017-12-27T14:15:44.424] [INFO] sql - parsonShow query : select * from person where id = 2
+[2017-12-27T14:15:48.677] [INFO] sql - parsonShow query : select * from person where id = 3
+[2017-12-27T14:15:51.600] [INFO] sql - parsonShow query : select * from person where id = 4
+[2017-12-27T14:16:22.786] [INFO] sql - parsonAll query : select * from person
+[2017-12-27T14:16:24.786] [INFO] sql - parsonShow query : select * from person where id = 1
+[2017-12-27T14:16:26.438] [INFO] sql - parsonShow query : select * from person where id = 2
+[2017-12-27T14:16:50.217] [INFO] sql - parsonAdd query : insert into person(name) values("HIKARI")
+[2017-12-27T14:20:25.324] [INFO] sql - parsonAll query : select * from person
+[2017-12-27T14:27:05.689] [INFO] sql - parsonUpdate query : update person SET name ="SUPER_STAR_MITURU" where id =13
+[2017-12-27T14:27:08.053] [INFO] sql - parsonAll query : select * from person
